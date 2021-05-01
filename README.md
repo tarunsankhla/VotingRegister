@@ -1,1 +1,3 @@
-# MEAN-Stack Sample Application With Angular 6 - Part 1
+# MEAN-Stack  Application With Angular 6
+
+Its a basic crud operation angular based application
